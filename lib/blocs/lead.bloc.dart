@@ -30,8 +30,6 @@ class LeadBloc extends BlocBase {
       }
     });
 
-    print(alreadyHaveFile);
-
     if (alreadyHaveFile) {
       return;
     }
