@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# offline_lead_capture
+# Offline lead capture
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# offline-lead-capture
-A project to capture leads without any internet connection, saving in excel.
->>>>>>> 344aff937cafcdbf3611069e14e3e2c027f9ca32
+This is a project to capture lead without any internet connection, saving the user information in excel.
