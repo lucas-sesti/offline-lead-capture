@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # offline_lead_capture
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# offline-lead-capture
+A project to capture leads without any internet connection, saving in excel.
+>>>>>>> 344aff937cafcdbf3611069e14e3e2c027f9ca32
